@@ -5,7 +5,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-print("Hi")
 
 #Get the dataset
 dataset = pd.read_csv(r'linear_regression_dataset (1).csv')
